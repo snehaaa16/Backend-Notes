@@ -1,0 +1,14 @@
+{
+  "name": "mypackage-sneha-a" ,
+  "version": "1.0.0",
+  "description": "this package do nothing",
+  "main": "eventloop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sneha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
