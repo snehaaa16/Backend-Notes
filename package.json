@@ -1,5 +1,5 @@
 {
-  "name": "mypackage-sneha-a" ,
+  "name": "mypackage-sneha-a",
   "version": "1.0.0",
   "description": "this package do nothing",
   "main": "eventloop.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "keywords": []
 }

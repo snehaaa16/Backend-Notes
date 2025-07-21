@@ -39,11 +39,5 @@ buyProduct("iphone16")
     .catch((err) => {
         console.log("Error:", err);
     });
-// function buyProduct(product_name,cb){
-//     ///do something asynchronous operation
-    // let isProduct= product.filter((p)=> p.name==product_name)[0];
-    // if(!isProduct){
-    //     return cb("product is not available",null)
-    // }
-//     cb(null,isProduct.amount);
-// }
+
+

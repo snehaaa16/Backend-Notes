@@ -48,6 +48,7 @@ fs.readFile("../file1.txt", "utf-8", function (err, data) {
         fs.writeFile("../result.txt", JSON.stringify(newarr), function (err) {
             if (err) return console.log(err)
             console.log("users written")
-        })
-    })
+        })
+    })
 })
+
